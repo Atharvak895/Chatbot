@@ -3,11 +3,11 @@ import psycopg2
 
 # -- PostgreSQL connection config --
 DB_CONFIG = {
-    "host" : "staging-db-cashbalancer.k.aivencloud.com",        # or your host e.g., '127.0.0.1'
-    "database" : "defaultdb",
-    "user" : "avnadmin",
-    "password" : "AVNS_wmId9mpclMXMW2RQdJe",
-    "port" : 26682
+    "host" : "",        # or your host e.g., '127.0.0.1'
+    "database" : "",
+    "user" : "",
+    "password" : "",
+    "port" : 
 }
 
 # -- Auto-fetch schema --
