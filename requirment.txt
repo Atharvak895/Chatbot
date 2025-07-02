@@ -1,0 +1,11 @@
+langchain_core
+python-dotenv
+langchain_community
+uvicorn
+fastapi
+pypdf
+faiss
+langchain-groq
+groq
+sentence_transformers
+PyPDF2
